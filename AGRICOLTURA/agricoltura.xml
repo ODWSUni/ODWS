@@ -1,0 +1,3042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:agr="http://www.economic.statistics/agr#">
+
+	<rdf:Description rdf:about="http://www.economic.statistics/agr/Belgium20131">
+      <agr:country>Belgium</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>1339.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Belgium20141">
+      <agr:country>Belgium</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>1333.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Belgium20151">
+      <agr:country>Belgium</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>1331.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Belgium20161">
+      <agr:country>Belgium</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>1353.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Belgium20171">
+      <agr:country>Belgium</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>1329.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Czechia20131">
+      <agr:country>Czechia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>3521.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Czechia20141">
+      <agr:country>Czechia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>3516.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Czechia20151">
+      <agr:country>Czechia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>3494.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Czechia20161">
+      <agr:country>Czechia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>3489.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Czechia20171">
+      <agr:country>Czechia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>3521.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Denmark20131">
+      <agr:country>Denmark</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>2628.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Denmark20141">
+      <agr:country>Denmark</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>2652.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Denmark20151">
+      <agr:country>Denmark</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>2633.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Denmark20161">
+      <agr:country>Denmark</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>2625.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Denmark20171">
+      <agr:country>Denmark</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>2631.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Germany20131">
+      <agr:country>Germany</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>16700.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Germany20141">
+      <agr:country>Germany</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>16725.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Germany20151">
+      <agr:country>Germany</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>16731.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Germany20161">
+      <agr:country>Germany</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>16659.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Germany20171">
+      <agr:country>Germany</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>16687.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Estonia20131">
+      <agr:country>Estonia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>966.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Estonia20141">
+      <agr:country>Estonia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>975.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Estonia20151">
+      <agr:country>Estonia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>994.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Estonia20161">
+      <agr:country>Estonia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>1004.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Estonia20171">
+      <agr:country>Estonia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>1002.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Ireland20131">
+      <agr:country>Ireland</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>4477.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Ireland20141">
+      <agr:country>Ireland</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>4465.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Ireland20151">
+      <agr:country>Ireland</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>4431.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Ireland20161">
+      <agr:country>Ireland</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>4461.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Ireland20171">
+      <agr:country>Ireland</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>4489.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Greece20131">
+      <agr:country>Greece</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>5213.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Greece20141">
+      <agr:country>Greece</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>5407.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Greece20151">
+      <agr:country>Greece</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>5292.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Greece20161">
+      <agr:country>Greece</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>5260.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Greece20171">
+      <agr:country>Greece</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>5152.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Spain20131">
+      <agr:country>Spain</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>23495.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Spain20141">
+      <agr:country>Spain</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>23572.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Spain20151">
+      <agr:country>Spain</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>23897.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Spain20161">
+      <agr:country>Spain</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>23816.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Spain20171">
+      <agr:country>Spain</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>23841.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/France20131">
+      <agr:country>France</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>28976.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/France20141">
+      <agr:country>France</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>28930.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/France20151">
+      <agr:country>France</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>29115.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/France20161">
+      <agr:country>France</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>29089.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/France20171">
+      <agr:country>France</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>29101.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Italy20131">
+      <agr:country>Italy</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>12426.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Italy20141">
+      <agr:country>Italy</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>12720.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Italy20151">
+      <agr:country>Italy</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>12661.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Italy20161">
+      <agr:country>Italy</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>12843.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Italy20171">
+      <agr:country>Italy</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>:</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Latvia20131">
+      <agr:country>Latvia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>1878.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Latvia20141">
+      <agr:country>Latvia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>1873.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Latvia20151">
+      <agr:country>Latvia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>1885.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Latvia20161">
+      <agr:country>Latvia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>1931.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Latvia20171">
+      <agr:country>Latvia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>1932.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Lithuania20131">
+      <agr:country>Lithuania</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>2891.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Lithuania20141">
+      <agr:country>Lithuania</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>2952.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Lithuania20151">
+      <agr:country>Lithuania</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>3006.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Lithuania20161">
+      <agr:country>Lithuania</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>2954.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Lithuania20171">
+      <agr:country>Lithuania</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>2935.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Luxembourg20131">
+      <agr:country>Luxembourg</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>131.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Luxembourg20141">
+      <agr:country>Luxembourg</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>131.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Luxembourg20151">
+      <agr:country>Luxembourg</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>131.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Luxembourg20161">
+      <agr:country>Luxembourg</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>131.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Luxembourg2017">
+      <agr:country>Luxembourg</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>131.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Hungary20131">
+      <agr:country>Hungary</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>5340.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Hungary20141">
+      <agr:country>Hungary</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>5346.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Hungary20151">
+      <agr:country>Hungary</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>5346.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Hungary20161">
+      <agr:country>Hungary</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>5349.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Hungary20171">
+      <agr:country>Hungary</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>5352.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Netherlands20131">
+      <agr:country>Netherlands</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>1848.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Netherlands20141">
+      <agr:country>Netherlands</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>1839.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Netherlands20151">
+      <agr:country>Netherlands</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>1846.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Netherlands20161">
+      <agr:country>Netherlands</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>1796.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Netherlands20171">
+      <agr:country>Netherlands</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>1790.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Austria20131">
+      <agr:country>Austria</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>2862.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Austria20141">
+      <agr:country>Austria</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>2716.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Austria20151">
+      <agr:country>Austria</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>2720.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Austria20161">
+      <agr:country>Austria</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>2689.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Austria20171">
+      <agr:country>Austria</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>2656.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Poland20131">
+      <agr:country>Poland</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>14410.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Poland20141">
+      <agr:country>Poland</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>14424.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Poland20151">
+      <agr:country>Poland</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>14398.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Poland20161">
+      <agr:country>Poland</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>14406.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Poland20171">
+      <agr:country>Poland</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>14498.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Portugal20131">
+      <agr:country>Portugal</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>3718.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Portugal20141">
+      <agr:country>Portugal</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>3700.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Portugal20151">
+      <agr:country>Portugal</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>3695.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Portugal20161">
+      <agr:country>Portugal</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>3636.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Portugal20171">
+      <agr:country>Portugal</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>3603.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovenia20131">
+      <agr:country>Slovenia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>479.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovenia20141">
+      <agr:country>Slovenia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>482.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovenia20151">
+      <agr:country>Slovenia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>477.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovenia20161">
+      <agr:country>Slovenia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>478.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovenia20171">
+      <agr:country>Slovenia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>481.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovakia20131">
+      <agr:country>Slovakia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>1929.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovakia20141">
+      <agr:country>Slovakia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>1925.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovakia20151">
+      <agr:country>Slovakia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>1922.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovakia20161">
+      <agr:country>Slovakia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>1919.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovakia20171">
+      <agr:country>Slovakia</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>1911.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Finland20131">
+      <agr:country>Finland</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>2259.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Finland20141">
+      <agr:country>Finland</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>2267.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Finland20151">
+      <agr:country>Finland</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>2273.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Finland20161">
+      <agr:country>Finland</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>2275.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Finland20171">
+      <agr:country>Finland</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>2272.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Sweden20131">
+      <agr:country>Sweden</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>3036.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Sweden20141">
+      <agr:country>Sweden</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>3036.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Sweden20151">
+      <agr:country>Sweden</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>3028.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Sweden20161">
+      <agr:country>Sweden</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>3021.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Sweden20171">
+      <agr:country>Sweden</agr:country>
+      <agr:variable>Total agricultural land area</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>3011.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Belgium20132">
+      <agr:country>Belgium</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>4.67</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Belgium20142">
+      <agr:country>Belgium</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>5.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Belgium20152">
+      <agr:country>Belgium</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>5.17</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Belgium20162">
+      <agr:country>Belgium</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>5.8</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Belgium20172">
+      <agr:country>Belgium</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>6.28</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Bulgaria20132">
+      <agr:country>Bulgaria</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>1.13</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Bulgaria20142">
+      <agr:country>Bulgaria</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>0.96</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Bulgaria20152">
+      <agr:country>Bulgaria</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>2.37</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Bulgaria20162">
+      <agr:country>Bulgaria</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>3.2</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Bulgaria20172">
+      <agr:country>Bulgaria</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>2.72</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Czechia20132">
+      <agr:country>Czechia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>13.47</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Czechia20142">
+      <agr:country>Czechia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>13.44</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Czechia20152">
+      <agr:country>Czechia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>13.68</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Czechia20162">
+      <agr:country>Czechia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>14.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Czechia20172">
+      <agr:country>Czechia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>14.09</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Denmark20132">
+      <agr:country>Denmark</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>6.44</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Denmark20142">
+      <agr:country>Denmark</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>6.25</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Denmark20152">
+      <agr:country>Denmark</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>6.33</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Denmark20162">
+      <agr:country>Denmark</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>7.81</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Denmark20172">
+      <agr:country>Denmark</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>8.6</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Germany20132">
+      <agr:country>Germany</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>6.04</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Germany20142">
+      <agr:country>Germany</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>6.18</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Germany20152">
+      <agr:country>Germany</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>6.34</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Germany20162">
+      <agr:country>Germany</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>6.82</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Germany20172">
+      <agr:country>Germany</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>6.82</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Estonia20132">
+      <agr:country>Estonia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>15.65</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Estonia20142">
+      <agr:country>Estonia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>15.96</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Estonia20152">
+      <agr:country>Estonia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>15.68</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Estonia20162">
+      <agr:country>Estonia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>18.02</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Estonia20172">
+      <agr:country>Estonia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>19.6</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Ireland20132">
+      <agr:country>Ireland</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>1.2</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Ireland20142">
+      <agr:country>Ireland</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>1.16</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Ireland20152">
+      <agr:country>Ireland</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>1.65</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Ireland20162">
+      <agr:country>Ireland</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>1.72</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Ireland20172">
+      <agr:country>Ireland</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>1.66</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Greece20132">
+      <agr:country>Greece</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>7.36</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Greece20142">
+      <agr:country>Greece</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>6.72</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Greece20152">
+      <agr:country>Greece</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>7.7</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Greece20162">
+      <agr:country>Greece</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>6.51</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Greece20172">
+      <agr:country>Greece</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>7.96</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Spain20132">
+      <agr:country>Spain</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>6.85</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Spain20142">
+      <agr:country>Spain</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>7.26</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Spain20152">
+      <agr:country>Spain</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>8.24</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Spain20162">
+      <agr:country>Spain</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>8.48</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Spain20172">
+      <agr:country>Spain</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>8.73</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/France20132">
+      <agr:country>France</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>3.66</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/France20142">
+      <agr:country>France</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>3.87</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/France20152">
+      <agr:country>France</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>4.54</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/France20162">
+      <agr:country>France</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>5.29</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/France20172">
+      <agr:country>France</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>5.99</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Croatia20132">
+      <agr:country>Croatia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>3.13</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Croatia20142">
+      <agr:country>Croatia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>4.03</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Croatia20152">
+      <agr:country>Croatia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>4.94</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Croatia20162">
+      <agr:country>Croatia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>6.05</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Croatia20172">
+      <agr:country>Croatia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>6.46</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Italy20132">
+      <agr:country>Italy</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>10.6</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Italy20142">
+      <agr:country>Italy</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>10.91</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Italy20152">
+      <agr:country>Italy</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>11.79</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Italy20162">
+      <agr:country>Italy</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>13.99</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Italy20172">
+      <agr:country>Italy</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>14.86</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Cyprus20132">
+      <agr:country>Cyprus</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>4.03</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Cyprus20142">
+      <agr:country>Cyprus</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>3.63</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Cyprus20152">
+      <agr:country>Cyprus</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>3.72</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Cyprus20162">
+      <agr:country>Cyprus</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>4.94</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Cyprus20172">
+      <agr:country>Cyprus</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>4.61</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Latvia20132">
+      <agr:country>Latvia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>9.89</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Latvia20142">
+      <agr:country>Latvia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>10.86</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Latvia20152">
+      <agr:country>Latvia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>12.29</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Latvia20162">
+      <agr:country>Latvia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>13.42</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Latvia20172">
+      <agr:country>Latvia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>13.92</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Lithuania20132">
+      <agr:country>Lithuania</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>5.74</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Lithuania20142">
+      <agr:country>Lithuania</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>5.57</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Lithuania20152">
+      <agr:country>Lithuania</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>7.11</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Lithuania20162">
+      <agr:country>Lithuania</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>7.5</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Lithuania20172">
+      <agr:country>Lithuania</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>7.98</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Luxembourg20132">
+      <agr:country>Luxembourg</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>3.39</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Luxembourg20142">
+      <agr:country>Luxembourg</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>3.43</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Luxembourg20152">
+      <agr:country>Luxembourg</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>3.21</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Luxembourg20162">
+      <agr:country>Luxembourg</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>3.47</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Luxembourg20172">
+      <agr:country>Luxembourg</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>4.15</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Hungary20132">
+      <agr:country>Hungary</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>2.45</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Hungary20142">
+      <agr:country>Hungary</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>2.34</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Hungary20152">
+      <agr:country>Hungary</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>2.43</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Hungary20162">
+      <agr:country>Hungary</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>3.48</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Hungary20172">
+      <agr:country>Hungary</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>3.73</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Malta20132">
+      <agr:country>Malta</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>0.06</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Malta20142">
+      <agr:country>Malta</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>0.29</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Malta20152">
+      <agr:country>Malta</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>0.25</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Malta20162">
+      <agr:country>Malta</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>0.21</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Malta20172">
+      <agr:country>Malta</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>0.35</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Netherlands20132">
+      <agr:country>Netherlands</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>2.65</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Netherlands20142">
+      <agr:country>Netherlands</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>2.67</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Netherlands20152">
+      <agr:country>Netherlands</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>2.67</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Netherlands20162">
+      <agr:country>Netherlands</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>2.91</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Netherlands20172">
+      <agr:country>Netherlands</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>3.14</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Austria20132">
+      <agr:country>Austria</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>18.4</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Austria20142">
+      <agr:country>Austria</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>19.35</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Austria20152">
+      <agr:country>Austria</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>20.3</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Austria20162">
+      <agr:country>Austria</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>21.25</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Austria20172">
+      <agr:country>Austria</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>23.37</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Poland20132">
+      <agr:country>Poland</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>4.65</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Poland20142">
+      <agr:country>Poland</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>4.56</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Poland20152">
+      <agr:country>Poland</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>4.03</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Poland20162">
+      <agr:country>Poland</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>3.72</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Poland20172">
+      <agr:country>Poland</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>3.41</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Portugal20132">
+      <agr:country>Portugal</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>5.31</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Portugal20142">
+      <agr:country>Portugal</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>5.74</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Portugal20152">
+      <agr:country>Portugal</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>6.52</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Portugal20162">
+      <agr:country>Portugal</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>6.75</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Portugal20172">
+      <agr:country>Portugal</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>7.04</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Romania20132">
+      <agr:country>Romania</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>2.06</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Romania20142">
+      <agr:country>Romania</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>2.09</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Romania20152">
+      <agr:country>Romania</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>1.77</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Romania20162">
+      <agr:country>Romania</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>1.67</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Romania20172">
+      <agr:country>Romania</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>1.93</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovenia20132">
+      <agr:country>Slovenia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>8.07</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovenia20142">
+      <agr:country>Slovenia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>8.55</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovenia20152">
+      <agr:country>Slovenia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>8.85</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovenia20162">
+      <agr:country>Slovenia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>9.12</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovenia20172">
+      <agr:country>Slovenia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>9.6</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovakia20132">
+      <agr:country>Slovakia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>8.18</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovakia20142">
+      <agr:country>Slovakia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>9.37</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovakia20152">
+      <agr:country>Slovakia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>9.47</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovakia20162">
+      <agr:country>Slovakia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>9.75</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovakia20172">
+      <agr:country>Slovakia</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>9.9</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Finland20132">
+      <agr:country>Finland</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>9.07</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Finland20142">
+      <agr:country>Finland</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>9.29</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Finland20152">
+      <agr:country>Finland</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>9.91</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Finland20162">
+      <agr:country>Finland</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>10.47</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Finland20172">
+      <agr:country>Finland</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>11.41</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Sweden20132">
+      <agr:country>Sweden</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>16.5</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Sweden20142">
+      <agr:country>Sweden</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>16.53</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Sweden20152">
+      <agr:country>Sweden</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>17.14</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Sweden20162">
+      <agr:country>Sweden</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>18.3</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Sweden20172">
+      <agr:country>Sweden</agr:country>
+      <agr:variable>Area under organic farming</agr:variable>
+      <agr:type>Hectares</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>19.16</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Belgium20133">
+      <agr:country>Belgium</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>8595.18</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Belgium20143">
+      <agr:country>Belgium</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>8124.17</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Belgium20153">
+      <agr:country>Belgium</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>8223.72</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Belgium20163">
+      <agr:country>Belgium</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>7981.09</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Belgium20173">
+      <agr:country>Belgium</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>8384.98</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Bulgaria20133">
+      <agr:country>Bulgaria</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>4393.78</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Bulgaria20143">
+      <agr:country>Bulgaria</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>4302.03</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Bulgaria20153">
+      <agr:country>Bulgaria</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>4033.15</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Bulgaria20163">
+      <agr:country>Bulgaria</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>4003.63</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Bulgaria20173">
+      <agr:country>Bulgaria</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>4213.05</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Czechia20133">
+      <agr:country>Czechia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>4935.79</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Czechia20143">
+      <agr:country>Czechia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>4976.1</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Czechia20153">
+      <agr:country>Czechia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>4711.15</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Czechia20163">
+      <agr:country>Czechia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>4918.63</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Czechia20173">
+      <agr:country>Czechia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>5085.03</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Denmark20133">
+      <agr:country>Denmark</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>10963.43</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Denmark20143">
+      <agr:country>Denmark</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>11023.92</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Denmark20153">
+      <agr:country>Denmark</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>10280.38</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Denmark20163">
+      <agr:country>Denmark</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>10042.52</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Denmark20173">
+      <agr:country>Denmark</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>11200.32</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Germany20133">
+      <agr:country>Germany</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>59721.43</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Germany20143">
+      <agr:country>Germany</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>58910.57</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Germany20153">
+      <agr:country>Germany</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>52496.64</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Germany20163">
+      <agr:country>Germany</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>51803.07</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Germany20173">
+      <agr:country>Germany</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>56248.87</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Estonia20133">
+      <agr:country>Estonia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>924.05</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Estonia20143">
+      <agr:country>Estonia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>900.22</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Estonia20153">
+      <agr:country>Estonia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>935.08</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Estonia20163">
+      <agr:country>Estonia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>749.73</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Estonia20173">
+      <agr:country>Estonia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>885.85</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Ireland20133">
+      <agr:country>Ireland</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>7671.42</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Ireland20143">
+      <agr:country>Ireland</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>7293.81</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Ireland20153">
+      <agr:country>Ireland</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>7404.18</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Ireland20163">
+      <agr:country>Ireland</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>7443.79</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Ireland20173">
+      <agr:country>Ireland</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>8476.38</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Greece20133">
+      <agr:country>Greece</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>10365.27</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Greece20143">
+      <agr:country>Greece</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>10577.38</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Greece20153">
+      <agr:country>Greece</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>11128.55</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Greece20163">
+      <agr:country>Greece</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>10734.06</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Greece20173">
+      <agr:country>Greece</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>11272.42</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Spain20133">
+      <agr:country>Spain</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>44064.65</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Spain20143">
+      <agr:country>Spain</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>43993.75</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Spain20153">
+      <agr:country>Spain</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>45642.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Spain20163">
+      <agr:country>Spain</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>48411.62</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Spain20173">
+      <agr:country>Spain</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>50640.76</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/France20133">
+      <agr:country>France</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>74184.7</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/France20143">
+      <agr:country>France</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>75335.0</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/France20153">
+      <agr:country>France</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>75212.77</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/France20163">
+      <agr:country>France</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>70485.7</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/France20173">
+      <agr:country>France</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>73088.28</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Croatia20133">
+      <agr:country>Croatia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>2414.66</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Croatia20143">
+      <agr:country>Croatia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>2041.24</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Croatia20153">
+      <agr:country>Croatia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>2090.25</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Croatia20163">
+      <agr:country>Croatia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>2183.63</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Croatia20173">
+      <agr:country>Croatia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>2203.85</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Italy20133">
+      <agr:country>Italy</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>57520.59</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Italy20143">
+      <agr:country>Italy</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>54280.7</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Italy20153">
+      <agr:country>Italy</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>55959.19</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Italy20163">
+      <agr:country>Italy</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>53902.3</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Italy20173">
+      <agr:country>Italy</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>55256.31</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Cyprus20133">
+      <agr:country>Cyprus</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>697.21</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Cyprus20143">
+      <agr:country>Cyprus</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>662.62</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Cyprus20153">
+      <agr:country>Cyprus</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>680.03</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Cyprus20163">
+      <agr:country>Cyprus</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>678.66</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Cyprus20173">
+      <agr:country>Cyprus</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>723.42</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Latvia20133">
+      <agr:country>Latvia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>1299.34</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Latvia20143">
+      <agr:country>Latvia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>1315.32</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Latvia20153">
+      <agr:country>Latvia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>1435.44</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Latvia20163">
+      <agr:country>Latvia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>1315.9</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Latvia20173">
+      <agr:country>Latvia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>1407.32</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Lithuania20133">
+      <agr:country>Lithuania</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>2855.9</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Lithuania20143">
+      <agr:country>Lithuania</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>2805.94</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Lithuania20153">
+      <agr:country>Lithuania</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>2971.81</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Lithuania20163">
+      <agr:country>Lithuania</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>2834.78</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Lithuania20173">
+      <agr:country>Lithuania</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>3141.64</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Luxembourg20133">
+      <agr:country>Luxembourg</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>422.1</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Luxembourg20143">
+      <agr:country>Luxembourg</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>457.87</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Luxembourg20153">
+      <agr:country>Luxembourg</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>404.28</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Luxembourg20163">
+      <agr:country>Luxembourg</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>406.31</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Luxembourg20173">
+      <agr:country>Luxembourg</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>428.98</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Hungary20133">
+      <agr:country>Hungary</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>7810.54</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Hungary20143">
+      <agr:country>Hungary</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>7957.04</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Hungary20153">
+      <agr:country>Hungary</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>8021.95</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Hungary20163">
+      <agr:country>Hungary</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>8308.99</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Hungary20173">
+      <agr:country>Hungary</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>8394.19</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Malta20133">
+      <agr:country>Malta</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>131.95</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Malta20143">
+      <agr:country>Malta</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>126.75</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Malta20153">
+      <agr:country>Malta</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>129.03</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Malta20163">
+      <agr:country>Malta</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>126.53</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Malta20173">
+      <agr:country>Malta</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>121.78</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Netherlands20133">
+      <agr:country>Netherlands</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>28408.12</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Netherlands20143">
+      <agr:country>Netherlands</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>27265.57</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Netherlands20153">
+      <agr:country>Netherlands</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>26932.92</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Netherlands20163">
+      <agr:country>Netherlands</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>27246.19</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Netherlands20173">
+      <agr:country>Netherlands</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>28936.81</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Austria20133">
+      <agr:country>Austria</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>7051.63</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Austria20143">
+      <agr:country>Austria</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>7018.38</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Austria20153">
+      <agr:country>Austria</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>6879.56</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Austria20163">
+      <agr:country>Austria</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>6946.24</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Austria20173">
+      <agr:country>Austria</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>7324.36</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Poland20133">
+      <agr:country>Poland</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>23669.19</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Poland20143">
+      <agr:country>Poland</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>23107.93</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Poland20153">
+      <agr:country>Poland</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>22349.88</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Poland20163">
+      <agr:country>Poland</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>22412.32</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Poland20173">
+      <agr:country>Poland</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>25655.2</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Portugal20133">
+      <agr:country>Portugal</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>6879.9</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Portugal20143">
+      <agr:country>Portugal</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>6914.83</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Portugal20153">
+      <agr:country>Portugal</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>7280.94</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Portugal20163">
+      <agr:country>Portugal</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>7094.87</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Portugal20173">
+      <agr:country>Portugal</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>7639.07</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Romania20133">
+      <agr:country>Romania</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>17756.15</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Romania20143">
+      <agr:country>Romania</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>16770.81</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Romania20153">
+      <agr:country>Romania</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>15465.33</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Romania20163">
+      <agr:country>Romania</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>15443.75</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Romania20173">
+      <agr:country>Romania</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>17180.46</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovenia20133">
+      <agr:country>Slovenia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>1160.13</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovenia20143">
+      <agr:country>Slovenia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>1226.69</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovenia20153">
+      <agr:country>Slovenia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>1279.47</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovenia20163">
+      <agr:country>Slovenia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>1219.34</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovenia20173">
+      <agr:country>Slovenia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>1163.19</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovakia20133">
+      <agr:country>Slovakia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>2406.96</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovakia20143">
+      <agr:country>Slovakia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>2391.81</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovakia20153">
+      <agr:country>Slovakia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>2160.67</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovakia20163">
+      <agr:country>Slovakia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>2391.1</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Slovakia20173">
+      <agr:country>Slovakia</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>2390.19</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Finland20133">
+      <agr:country>Finland</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>4853.79</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Finland20143">
+      <agr:country>Finland</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>4629.61</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Finland20153">
+      <agr:country>Finland</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>4316.13</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Finland20163">
+      <agr:country>Finland</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>4318.73</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Finland20173">
+      <agr:country>Finland</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>4295.33</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Sweden20133">
+      <agr:country>Sweden</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2013</agr:year>
+      <agr:value>6417.07</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Sweden20143">
+      <agr:country>Sweden</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2014</agr:year>
+      <agr:value>6219.17</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Sweden20153">
+      <agr:country>Sweden</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2015</agr:year>
+      <agr:value>6114.23</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Sweden20163">
+      <agr:country>Sweden</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2016</agr:year>
+      <agr:value>5971.51</agr:value>
+   </rdf:Description>
+   
+   <rdf:Description rdf:about="http://www.economic.statistics/agr/Sweden20173">
+      <agr:country>Sweden</agr:country>
+      <agr:variable>Output of the agricultural industry</agr:variable>
+      <agr:type>€</agr:type>
+      <agr:year>2017</agr:year>
+      <agr:value>6456.84</agr:value>
+   </rdf:Description>
